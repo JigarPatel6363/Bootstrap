@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.border-red{
+    box-shadow: 8px 8px 20px 1px rgb(139, 139, 139) ;
+}
+.border-red1{
+    border-radius: 10px;
+    box-shadow: 8px 8px 20px 1px rgb(139, 139, 139) ;
+
+}
+.footer{
+ margin-top: 80px;
+}
+.ul{
+    list-style: none;
+}
